@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4b">
+  <header segtype="paragraph" creationtoolversion="1.0" srclang="EN" creationtool="ORESAligner" datatype="plaintext" o-tmf="ORES" adminlang="en-us"/>
+  <body>
+    <tu tuid="55_100:6">
+      <prop type="session">55</prop>
+      <prop type="committee">3</prop>
+      <tuv xml:lang="EN">
+        <seg>RESOLUTION 55/100</seg>
+      </tuv>
